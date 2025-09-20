@@ -21,7 +21,8 @@ Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering,
 version Control: Git/GitHub
 
 
-# Features: Age, Gender, Income, Credit Score, etc.
+# Features:
+Age, Gender, Income, Credit Score, etc.
 
 Target: Customer approval likelihood for a new credit card.
 
@@ -31,7 +32,6 @@ Data Preprocessing: Cleaning missing values, encoding categorical variables, sca
 
 EDA: Visualizing customer demographics and behavior.
 
-Insights: Key factors influencing customer approval.
 
 Results & Insights
 
