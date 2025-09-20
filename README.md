@@ -1,40 +1,37 @@
 # AtliQo_credit_card
-### Project Overview
+## Project Overview
 
-# This project analyzes bank customer data to identify potential customers who are most likely to be approved for a new credit card. The goal is to help the bank target the right audience, maximize profits, and reduce risk by using data-driven decision-making.
+This project analyzes bank customer data to identify potential customers who are most likely to be approved for a new credit card. The goal is to help the bank target the right audience, maximize profits, and reduce risk by using data-driven decision-making.
 
  ## Objectives
 
-# Analyze customer demographics and financial details.
+Analyze customer demographics and financial details.
 
-# Build a predictive machine learning model to classify potential customers.
+Build a predictive machine learning model to classify potential customers.
 
-# Provide insights to support marketing and business strategies.
+Provide insights to support marketing and business strategies.
 
 ## Technologies & Tools Used
 
-# Programming Language: Python
-
-# Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
-
-# Techniques: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering,   Classification Models
-
-# Version Control: Git/GitHub
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+echniques: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering,   Classification Models
+version Control: Git/GitHub
 
 
-# Features: Age, Gender, Income, Credit Score, etc.
+Features: Age, Gender, Income, Credit Score, etc.
 
-# Target: Customer approval likelihood for a new credit card.
+Target: Customer approval likelihood for a new credit card.
 
 ## Project Workflow
 
-# Data Preprocessing: Cleaning missing values, encoding categorical variables, scaling.
+Data Preprocessing: Cleaning missing values, encoding categorical variables, scaling.
 
-# EDA: Visualizing customer demographics and behavior.
+EDA: Visualizing customer demographics and behavior.
 
-# Insights: Key factors influencing customer approval.
+Insights: Key factors influencing customer approval.
 
-## Results & Insights
+Results & Insights
 
 ![Visuals](visuals/analysis.png)
 
